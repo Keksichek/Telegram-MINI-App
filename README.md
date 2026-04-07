@@ -5,3 +5,4 @@ https://app.weeek.net/s/razrabotka-telegram-mini-app-document-OTI5MjAxfGExNDVkZG
 https://www.figma.com/design/mKmvlrQYtc4xvd5nqH02yk/Untitled?node-id=10-542&t=7kCA5Jtg7YBoJSOn-1 (<- Ссылка на макеты)
 
 В проекте используется модель GitHub Flow.
+
