@@ -6,4 +6,6 @@ https://www.figma.com/design/mKmvlrQYtc4xvd5nqH02yk/Untitled?node-id=10-542&t=7k
 
 В проекте используется модель GitHub Flow.
 
+Каталог содержит категории товаров
+
 
