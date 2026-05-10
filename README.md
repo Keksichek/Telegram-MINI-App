@@ -8,15 +8,15 @@ https://www.figma.com/design/mKmvlrQYtc4xvd5nqH02yk/Untitled?node-id=10-542&t=7k
 
 Каталог содержит категории товаров
 
-# Запуск проекта
+## Запуск проекта
 
 npm install
 npm run dev
 
-# Сборка проекта
+## Сборка проекта
 
 npm run build
 
-# Запуск тестов
+## Запуск тестов
 
 npm run test
