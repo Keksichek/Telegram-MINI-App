@@ -67,7 +67,7 @@ function closeModal() {
 
 <template>
   <div class="container">
-    <h1>🪑 Магазин мебели</h1>
+    <h1>🪑 Telegram Mini App Store</h1>
 
     <!-- 🔎 поиск -->
     <div class="search-box">
